@@ -5,7 +5,7 @@
 本系统是基于SpringBoot + Vue3 + MySQL搭建的医疗导诊平台，集成大模型实现症状分诊。
 
 ## 📦完整源码下载
-百度网盘：【[粘贴你的网盘链接](https://pan.baidu.com/s/1uJ9kv1rS1kMlsrweFuoZlg )】
+百度网盘：【[[粘贴你的网盘链接](https://pan.baidu.com/s/1uJ9kv1rS1kMlsrweFuoZlg )](https://pan.baidu.com/s/1uJ9kv1rS1kMlsrweFuoZlg )】
 提取码：zz74
 
 ## ✨功能模块
